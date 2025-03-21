@@ -1,4 +1,4 @@
-name: Deploy MercadoPago Service Documentation
+name: Deploy Hola project Documentation
 
 on:
   schedule:
